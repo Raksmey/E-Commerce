@@ -17,7 +17,7 @@ function Header() {
                         </svg>
 
                     </button>
-                    <h1 className="font-bold">KH STORE</h1>
+                    <h1 className="font-bold">KHS STORE</h1>
                 </div>
                 <ul className="hidden lg:flex items-center gap-4">
                     <li className="hover:underline decoration-yellow-600">
